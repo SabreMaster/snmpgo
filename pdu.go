@@ -6,7 +6,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/geoffgarside/ber"
+	"github.com/SabreMaster/ber"
 )
 
 type VarBind struct {
