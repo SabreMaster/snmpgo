@@ -4,7 +4,7 @@ import (
 	"encoding/asn1"
 	"fmt"
 
-	"github.com/geoffgarside/ber"
+	"github.com/SabreMaster/ber"
 )
 
 type message interface {
