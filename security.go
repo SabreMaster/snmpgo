@@ -16,7 +16,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/geoffgarside/ber"
+	"github.com/SabreMaster/ber"
 )
 
 type security interface {
