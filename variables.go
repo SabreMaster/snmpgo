@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/geoffgarside/ber"
+	"github.com/SabreMaster/ber"
 )
 
 type Variable interface {
